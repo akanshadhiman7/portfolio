@@ -1,0 +1,23 @@
+body{
+    background-color:#EF7375;
+}
+.header {
+    display: flow-root; 
+    background-color: #5df073;
+   
+}
+.text {
+    background-color: #5df073;
+}
+.a {
+    display: flex;
+  justify-content: space-evenly;
+}
+.b {
+    display: flex;
+  justify-content: space-evenly;
+}
+.c {
+    display: flex;
+  justify-content: space-evenly;
+}
